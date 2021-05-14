@@ -1,0 +1,14 @@
+12
+ellipsoid.0.png
+ellipsoid.1.png
+ellipsoid.2.png
+ellipsoid.3.png
+ellipsoid.4.png
+ellipsoid.5.png
+ellipsoid.6.png
+ellipsoid.7.png
+ellipsoid.8.png
+ellipsoid.9.png
+ellipsoid.10.png
+ellipsoid.11.png
+ellipsoid.mask.png
